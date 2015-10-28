@@ -5,10 +5,22 @@
  */
 package caixeiroviajante;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author UDESC
  */
 public class MatrizCustos {
+    private ArrayList<Cidade> cidades;
+    private float custos[][];
+    private int tamanho;
     
+    
+    public void lerArquivo(){
+        
+    }
+    public void calcularCustos(){
+        
+    }
 }
